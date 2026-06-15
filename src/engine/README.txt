@@ -20,7 +20,7 @@ This is a small sample of Lua based chess to run from command line.
 7. OwlChess.bat - a port of an old '92-95 Owl Chess program
  in Borland Turbo C (from javascript port). Good and well documented.
  It was written when no 64 bits seemed useful. :)
- This version sometimes crashes on LuaJIT.
+ This version sometimes crashes on LuaJIT..
 
 Other:
 ---------
